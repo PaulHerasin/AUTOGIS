@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 324 72.7" style="enable-background:new 0 0 324 72.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'SegoeUISymbol';}
+	.st2{font-size:50px;}
+	.st3{letter-spacing:-1;}
+	.st4{font-size:20px;}
+	.st5{letter-spacing:4;}
+	.st6{fill:#FF9100;}
+	.st7{fill:#25D9F8;}
+	.st8{fill:#00C0F1;}
+	.st9{fill:#7FE881;}
+	.st10{fill:#5BC980;}
+	.st11{fill:#FF637B;}
+	.st12{fill:#E63950;}
+</style>
+<g id="Слой_1">
+</g>
+<g id="Слой_2">
+	<text transform="matrix(1 0 0 1 76.5061 60.5094)" class="st0 st1 st2 st3">Google Play</text>
+	<text transform="matrix(1 0 0 1 76.5061 14.5094)" class="st0 st1 st4 st5">GET IT ON</text>
+	<g>
+		<path class="st6" d="M58.2,30.3l-11.7-6.8l-16,12l16,12l11.7-6.8c1.8-1.1,2.9-3.1,2.9-5.2C61.2,33.4,60.1,31.5,58.2,30.3z"/>
+		<path class="st7" d="M34.6,35.6c0,0-14.2,18.2-14.2,18.2L2,68.3c-1.1-1.1-1.8-2.7-1.8-4.4V7.1c0-1.7,0.7-3.2,1.8-4.4l18.4,14.6
+			C20.4,17.3,34.6,35.5,34.6,35.6z"/>
+		<polygon class="st8" points="34.6,35.6 30.5,40.8 30.5,30.3 		"/>
+		<path class="st9" d="M46.6,23.6l-12,12L2,2.7c0.4-0.4,0.8-0.6,1.3-0.9c1.9-1.1,4.3-1.1,6.2,0.1l21.1,12.4L46.6,23.6z"/>
+		<polygon class="st10" points="46.6,23.6 34.6,35.6 30.5,31.5 30.5,14.3 		"/>
+		<path class="st11" d="M46.6,47.5l-16,9.2L9.3,69.1c-1,0.6-2,0.9-3.1,0.9c-1,0-2-0.3-3-0.8c-0.4-0.3-0.9-0.6-1.3-0.9l32.6-32.7
+			L46.6,47.5z"/>
+		<polygon class="st12" points="46.6,47.5 30.5,56.8 30.5,39.6 34.6,35.6 		"/>
+	</g>
+</g>
+</svg>
